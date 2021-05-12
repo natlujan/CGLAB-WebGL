@@ -1,2 +1,0 @@
-# CGLAB-WebGL
-WebGL Porject
